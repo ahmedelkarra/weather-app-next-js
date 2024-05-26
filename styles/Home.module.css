@@ -1,0 +1,35 @@
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.24);
+}
+
+.main {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.input {
+  width: 50%;
+  height: 50px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+
+.mainContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 400px;
+  margin-top: 50px;
+  border-radius: 20px;
+  background-color: rgba(128, 128, 128, 0.295);
+}

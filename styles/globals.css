@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../public/pexels-johannes-plenio-1118873.jpg);
+  background-size: 100% 100dvh;
+}
